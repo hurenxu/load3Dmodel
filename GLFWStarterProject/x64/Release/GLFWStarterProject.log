@@ -1,0 +1,13 @@
+﻿  OBJObject.cpp
+..\OBJObject.cpp(261): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\OBJObject.cpp(262): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\OBJObject.cpp(266): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+..\OBJObject.cpp(270): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Window.cpp
+  main.cpp
+  Generating code
+  56 of 290 functions (19.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLFWStarterProject.vcxproj -> C:\Users\reh01\Desktop\CSE 167\CSE167StarterCode\x64\Release\GLFWStarterProject.exe
